@@ -1,0 +1,36 @@
+[submodule "01-libft"]
+	path = 01-libft
+	url = git@github.com:aarrien-42/01-libft.git
+[submodule "02-ft_printf"]
+	path = 02-ft_printf
+	url = git@github.com:aarrien-42/02-ft_printf.git
+[submodule "02-get_next_line"]
+	path = 02-get_next_line
+	url = git@github.com:aarrien-42/02-get_next_line.git
+[submodule "03-pipex"]
+	path = 03-pipex
+	url = git@github.com:aarrien-42/03-pipex.git
+[submodule "03-push_swap"]
+	path = 03-push_swap
+	url = git@github.com:aarrien-42/03-push_swap.git
+[submodule "03-so_long"]
+	path = 03-so_long
+	url = git@github.com:aarrien-42/03-so_long.git
+[submodule "04-minishell"]
+	path = 04-minishell
+	url = git@github.com:aarrien-42/04-minishell.git
+[submodule "04-philosophers"]
+	path = 04-philosophers
+	url = git@github.com:aarrien-42/04-philosophers.git
+[submodule "05-cub3d"]
+	path = 05-cub3d
+	url = git@github.com:aarrien-42/05-cub3d.git
+[submodule "06-CPP"]
+	path = 06-CPP
+	url = git@github.com:aarrien-42/06-CPP.git
+[submodule "06-inception"]
+	path = 06-inception
+	url = git@github.com:aarrien-42/06-inception.git
+[submodule "06-webserv"]
+	path = 06-webserv
+	url = git@github.com:aarrien-42/06-webserv.git
